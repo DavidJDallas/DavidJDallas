@@ -1,3 +1,6 @@
-I'm a software developer based in Bristol, UK. My background before software was in the Philosophy of Science, and this influence remains. From this angle I'm interested in the foundations, philosophy and history of software and computer science more generally. I'm especially interested in philosophy of software design, or philosophies of architectural design in software, and am becoming interested with the early historical figures around this such as Dijkstra and Parnas.
+I'm a software developer based in Bristol, UK. My background before software was in the Philosophy of Science, and this influence remains. From this angle I'm interested in the foundations, philosophy and history of software and computer science more generally. I'm especially interested in 
 
-I also enjoy actually writing and designing software. I'm currently writing in [Effect](https://effect.website), a framework of TS that pushes TS more functionally and has much stronger and explicit Typing and error handling. 
+- Philosophy of software design (especially what an abstraction is and what constitutes a good abstraction)
+- Philosophies of architectural design in software
+- The history and foundations of databases, especially LSM-tree search engines and the origins and development of relational databases
+- The nature of software as a discipline and different camps (Formal Methods camps, more Pragmatic camps (Kent Beck, Dave Farley, AGILE advocates, etc)). How these camps emerge, what they stand for, etc. 
